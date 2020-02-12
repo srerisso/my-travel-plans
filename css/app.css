@@ -59,6 +59,10 @@ h2 {
   background-color: #FF9900;
 }
 
+#portland {
+  background-color: #229900;
+}
+
 .destination:hover h2 {
     transform: rotate(0deg);
 }
