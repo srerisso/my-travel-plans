@@ -55,6 +55,10 @@ h2 {
     background-color: #d32f2f;
 }
 
+#california {
+  background-color: #FF9900;
+}
+
 .destination:hover h2 {
     transform: rotate(0deg);
 }
